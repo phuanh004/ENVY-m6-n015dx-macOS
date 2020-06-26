@@ -13,11 +13,15 @@
 - Wireless Card:
   Intel® Dual Band Wireless-AC 3160 Plus Bluetooth® 4.0
 
+## Bootloader Firmware
+
+- Beta: OpenCore `0.5.9`
+
 ## Post-Installation
 
 Updating...
 
-## Issues
+## Known Issues
 
 - Battery Manager needs to be patched
 - subwoofer does not work

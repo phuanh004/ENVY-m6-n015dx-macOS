@@ -3,9 +3,8 @@
 - AppleALC (1.4.9)
   https://github.com/vit9696/AppleALC
   An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications.
-
 - itlwm (1.0.0)
-
+  https://github.com/zxystd/itlwm
   An Intel Wifi Adapter Kernel Extension for macOS, based on the OpenBSD Project.
 
 - Lilu.kext (1.4.4)
