@@ -1,6 +1,6 @@
 # macOS on HP® ENVY m6-n015dx
 
-#### This repo is currently compatible with macOS `10.15.5`
+#### This repo is currently compatible with macOS `11.0`
 
 - Device: HP® ENVY m6-n015dx
 - CPU: Intel Core i5 (4th Gen) 4210M / 2.6 GHz
@@ -15,7 +15,7 @@
 
 ## Bootloader Firmware
 
-- Beta: OpenCore `0.5.9`
+- Beta: OpenCore `0.6.0`
 
 ## Post-Installation
 
