@@ -782,7 +782,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02342500GUFH311F</string>
+			<string></string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -790,9 +790,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02LKPZWFH00</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>BF4DA91B-EF1F-40DD-9BF1-2BA21A7CF00F</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
